@@ -1,2 +1,2 @@
-git config user.name marton
-git config user.email marton
+git config user.name JS
+git config user.email JS
